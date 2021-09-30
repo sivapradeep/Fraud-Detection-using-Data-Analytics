@@ -1,5 +1,5 @@
 # Fraud-Detection-using-Data-Analytics
-Data Analytics techniques can be used to detect the Fraud/Theft.
+Data Analytics techniques can also be used to detect the Fraud/Theft.
 
 This technical article has been published in User Journal / Magzine called "Noteworthy" on June 7th 2018 and the link is given below.
 
