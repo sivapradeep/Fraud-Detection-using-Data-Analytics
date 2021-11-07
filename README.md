@@ -7,4 +7,4 @@ https://blog.usejournal.com/fraud-detection-using-data-analytics-5037cf4244e
 
 Author : Siva Pradeep Makani
 
-******* @2018, Siva Makani, All Rights Reserved ********
+****** @2018, Siva Makani, All Rights Reserved *******
